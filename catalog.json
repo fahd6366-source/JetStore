@@ -131,7 +131,11 @@
     "OsmAnd+ 5.1.9",
     "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/OsmAnd-Plus-5.1.9.apk",
     "Radarbot 9.27",
-    "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/Radarbot-9.27.apk"
+    "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/Radarbot-9.27.apk",
+    "ReVanced Manager Plus 3.6.25",
+    "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/ReVanced-Manager-Plus-3.6.25.apk",
+    "SoundBoost 1.2 Premium",
+    "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/SoundBoost-1.2-Premium.apk"
   ],
   "appMetadata": [
     {
@@ -169,6 +173,24 @@
       "category": "navigation",
       "size": 180508858,
       "downloadUrl": "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/Radarbot-9.27.apk"
+    },
+    {
+      "name": "ReVanced Manager Plus 3.6.25",
+      "fileName": "ReVanced-Manager-Plus-3.6.25.apk",
+      "packageName": "com.revanced.net.revancedmanager",
+      "version": "3.6.25",
+      "category": "tools",
+      "size": 2477424,
+      "downloadUrl": "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/ReVanced-Manager-Plus-3.6.25.apk"
+    },
+    {
+      "name": "SoundBoost 1.2 Premium",
+      "fileName": "SoundBoost-1.2-Premium.apk",
+      "packageName": "com.isoftcars.soundboost",
+      "version": "1.2",
+      "category": "tools",
+      "size": 25140,
+      "downloadUrl": "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/SoundBoost-1.2-Premium.apk"
     }
   ]
 }
