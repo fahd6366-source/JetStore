@@ -135,7 +135,9 @@
     "ReVanced Manager Plus 3.6.25",
     "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/ReVanced-Manager-Plus-3.6.25.apk",
     "SoundBoost 1.2 Premium",
-    "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/SoundBoost-1.2-Premium.apk"
+    "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/SoundBoost-1.2-Premium.apk",
+    "Permissions 1.1.0",
+    "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/Permissions.apk"
   ],
   "appMetadata": [
     {
@@ -191,6 +193,15 @@
       "category": "tools",
       "size": 25140,
       "downloadUrl": "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/SoundBoost-1.2-Premium.apk"
+    },
+    {
+      "name": "Permissions 1.1.0",
+      "fileName": "Permissions.apk",
+      "packageName": "com.jetdash.permissions",
+      "version": "1.1.0",
+      "category": "tools",
+      "size": 37570,
+      "downloadUrl": "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/Permissions.apk"
     }
   ]
 }
