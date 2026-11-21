@@ -66,8 +66,8 @@
     "https://github.com/alzaubi/SmartLink/releases/download/SmartStore_APPS_V1.1/Morphe.MicroG-RE-v6.1.4.apk",
     "Netfly v3 0 3",
     "https://github.com/alzaubi/SmartLink/releases/download/SmartStore_APPS_V1.1/Netfly-v3.0.3.apk",
-    "NewPipe v0 29 0",
-    "https://github.com/alzaubi/SmartLink/releases/download/SmartStore_APPS_V1.1/NewPipe_v0.29.0.apk",
+    "NewPipe 0.29.3",
+    "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/NewPipe_v0.29.3.apk",
     "Organic Maps v2026 07 23 6 Web",
     "https://github.com/alzaubi/SmartLink/releases/download/SmartStore_APPS_V1.1/Organic.Maps-v2026.07.23-6-Web.apk",
     "OsmAnd Nightly v5 4 0 8407m",
@@ -84,8 +84,8 @@
     "https://github.com/alzaubi/SmartLink/releases/download/SmartStore_APPS_V1.1/SmartAI-1.7-Unified.apk",
     "SmartHide v1 1 Unified",
     "https://github.com/alzaubi/SmartLink/releases/download/SmartStore_APPS_V1.1/SmartHide-v1.1-Unified.apk",
-    "SmartTube v31 94 Stable arm64",
-    "https://github.com/alzaubi/SmartLink/releases/download/SmartStore_APPS_V1.1/SmartTube-v31.94-Stable-arm64.apk",
+    "SmartTube 32.80 Stable",
+    "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/SmartTube-v32.80-Stable-arm64.apk",
     "Smartweather v4 6 unified",
     "https://github.com/alzaubi/SmartLink/releases/download/SmartStore_APPS_V1.1/Smartweather-v4.6-unified.apk",
     "Snapchat v14 16 0 49",
@@ -202,6 +202,24 @@
       "category": "tools",
       "size": 37570,
       "downloadUrl": "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/Permissions.apk"
+    },
+    {
+      "name": "NewPipe 0.29.3",
+      "fileName": "NewPipe_v0.29.3.apk",
+      "packageName": "org.schabi.newpipe",
+      "version": "0.29.3",
+      "category": "youtube",
+      "size": 16980865,
+      "downloadUrl": "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/NewPipe_v0.29.3.apk"
+    },
+    {
+      "name": "SmartTube 32.80 Stable",
+      "fileName": "SmartTube-v32.80-Stable-arm64.apk",
+      "packageName": "org.smarttube.stable",
+      "version": "32.80",
+      "category": "youtube",
+      "size": 26782777,
+      "downloadUrl": "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/SmartTube-v32.80-Stable-arm64.apk"
     }
   ]
 }
