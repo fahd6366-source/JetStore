@@ -137,7 +137,9 @@
     "SoundBoost 1.2 Premium",
     "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/SoundBoost-1.2-Premium.apk",
     "Permissions 1.1.0",
-    "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/Permissions.apk"
+    "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/Permissions.apk",
+    "YouTube ReVanced 21.30.216 (ARM64)",
+    "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/YouTube-ReVanced-21.30.216-arm64.apk"
   ],
   "appMetadata": [
     {
@@ -220,6 +222,17 @@
       "category": "youtube",
       "size": 26782777,
       "downloadUrl": "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/SmartTube-v32.80-Stable-arm64.apk"
+    },
+    {
+      "name": "YouTube ReVanced 21.30.216 (ARM64)",
+      "fileName": "YouTube-ReVanced-21.30.216-arm64.apk",
+      "packageName": "app.revanced.android.youtube",
+      "version": "21.30.216",
+      "category": "youtube",
+      "size": 112687179,
+      "downloadUrl": "https://github.com/fahd6366-source/JetStore/releases/download/v1.0.1/YouTube-ReVanced-21.30.216-arm64.apk",
+      "minSdk": 29,
+      "abi": "arm64-v8a"
     }
   ]
 }
